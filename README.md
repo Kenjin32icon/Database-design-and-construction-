@@ -1,5 +1,4 @@
-# Database-design-and-construction
-
+# GROUP C:- SUPERMARKET DATABASE
 ## Overview
 
 This repository provides guidance and tools to the group C; SuperMarket Database project.
