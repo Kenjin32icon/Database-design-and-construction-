@@ -10,7 +10,7 @@ For the original database was made in Libre Office this repo helps to bridges Li
 
 To download the Supermarket Database project, click the link below:
 
-[Download the Supermarket Database Project](https://github.com/Kenjin32icon/Database-design-and-construction-/archive/refs/heads/main.zip)
+[📥 Download the Supermarket Database Project](https://github.com/Kenjin32icon/Database-design-and-construction-/archive/refs/heads/main.zip)
 
 ## Contributors
 
