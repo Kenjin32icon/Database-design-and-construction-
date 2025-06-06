@@ -2,7 +2,16 @@
 
 ## Overview
 
-This repository provides guidance and tools to bridge LibreOffice Base databases and Microsoft Access. If you use LibreOffice Base for database creation and want to leverage Access for advanced querying or integration, this project shows how to open LibreOffice `.odb` files within Access.
+This repository provides guidance and tools to the group C; SuperMarket Database project.
+For the original database was made in Libre Office this repo helps to bridges LibreOffice Base databases and Microsoft Access. If you use LibreOffice Base for database creation and want to leverage Access for advanced querying or integration, this project shows how to open LibreOffice `.odb` files within Access.
+
+---
+
+## Contributors
+
+- **Lewis**: Database Designer. AIIM/00477/2021
+- **Joseph Kimani**: Project Leader. AIIM/01073/2021
+- **Nesta Sila**: Chief Data Engineer. AIIM/01873/2021
 
 ---
 
@@ -43,4 +52,3 @@ Microsoft Access cannot open `.odb` files directly because they are LibreOffice 
 - Keep your LibreOffice Base and Access versions updated for best compatibility.
 - When exporting data, ensure the character encoding and data types are preserved to avoid data inconsistencies.
 - Automate export and import processes with scripts if you need repeated synchronization.
-
