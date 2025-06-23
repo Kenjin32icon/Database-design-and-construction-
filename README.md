@@ -83,7 +83,3 @@ Microsoft Access cannot open `.odb` files directly because they are LibreOffice 
 - Keep your LibreOffice Base and Access versions updated for best compatibility.
 - When exporting data, ensure the character encoding and data types are preserved to avoid data inconsistencies.
 - Automate export and import processes with scripts if you need repeated synchronization.
-
---- 
-
-Feel free to replace the placeholder link for the Access database file with the actual path to your file in the repository. Let me know if you need any more changes!
